@@ -3,7 +3,7 @@
 // import { primaryColor } from "../components/styles/Theme1";
 // import Icon from "@expo/vector-icons/AntDesign"
 
-// const SignIn = ({navigation}) => {
+// const SignInScreen = ({navigation}) => {
 //     return(
 //         <View style={styles.container}>
 //             <Image source ={require("../images/musicimage.png")}
@@ -74,4 +74,4 @@
 //         color: "white",
 //     }
 // })
-// export default SignIn;
+// export default SignInScreen;
